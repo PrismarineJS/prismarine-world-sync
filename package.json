@@ -1,6 +1,6 @@
 {
   "name": "prismarine-world-sync",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A sync proxy to prismarine-world",
   "main": "index.js",
   "scripts": {

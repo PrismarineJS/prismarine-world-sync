@@ -1,4 +1,6 @@
 # prismarine-world-sync
+[![NPM version](https://img.shields.io/npm/v/prismarine-world-sync.svg)](http://npmjs.com/package/prismarine-world-sync)
+
 A sync proxy to prismarine-world
 
 To be used only if you really really have to, for example if you need to provide to use the world representation
@@ -6,7 +8,6 @@ To be used only if you really really have to, for example if you need to provide
  
 If you have no such constraint, use prismarine-world instead.
 
-[![NPM version](https://img.shields.io/npm/v/prismarine-world-sync.svg)](http://npmjs.com/package/prismarine-world-sync)
 
 ## Usage
 
@@ -28,3 +29,6 @@ The rest of the api is the same than the one of
 
 ## History
 
+### 0.1.0
+
+* First version, basic functionality is implemented
