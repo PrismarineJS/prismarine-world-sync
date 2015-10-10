@@ -1,0 +1,30 @@
+{
+  "name": "prismarine-world-sync",
+  "version": "0.0.0",
+  "description": "A sync proxy to prismarine-world",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "deasync":"~0.1.3"
+  },
+  "devDependencies": {
+    "prismarine-world":"~0.2.0",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "babel-runtime": "^5.4.4",
+    "vec3": "~0.1.3",
+    "prismarine-chunk": "0.2.1"
+  },
+  "keywords": [
+    "prismarine",
+    "world",
+    "minecraft",
+    "world",
+    "representation"
+  ],
+  "author": "Romain Beaumont <romain.rom1@gmail.com>",
+  "license": "MIT"
+}
