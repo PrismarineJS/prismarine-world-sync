@@ -1,5 +1,6 @@
 # prismarine-world-sync
 [![NPM version](https://img.shields.io/npm/v/prismarine-world-sync.svg)](http://npmjs.com/package/prismarine-world-sync)
+[![Build Status](https://circleci.com/gh/PrismarineJS/prismarine-world-sync/tree/master.svg?style=shield)](https://circleci.com/gh/PrismarineJS/prismarine-world-sync/tree/master)
 
 A sync proxy to prismarine-world
 

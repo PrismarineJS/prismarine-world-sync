@@ -1,1 +1,1 @@
-module.exports = require('./dist/worldSync.js');
+module.exports = require('./src/worldSync.js')
