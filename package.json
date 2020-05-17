@@ -16,7 +16,7 @@
     "deasync": "^0.1.13"
   },
   "devDependencies": {
-    "prismarine-chunk": "1.9.0",
+    "prismarine-chunk": "^1.16.0",
     "prismarine-world": "^2.0.0",
     "minecraft-data": "^2.26.0",
     "standard": "^14.3.4",
