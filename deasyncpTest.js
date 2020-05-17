@@ -1,5 +1,5 @@
 const deasyncp = require('./dist/deasyncp')
-const Promise = require('babel-runtime/core-js/promise')['default']
+const Promise = require('babel-runtime/core-js/promise').default
 
 function sleep (ms) {
   return new Promise(function (resolve) { setTimeout(r, ms) })
