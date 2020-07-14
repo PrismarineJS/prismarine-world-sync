@@ -2,6 +2,8 @@
 [![NPM version](https://img.shields.io/npm/v/prismarine-world-sync.svg)](http://npmjs.com/package/prismarine-world-sync)
 [![Build Status](https://circleci.com/gh/PrismarineJS/prismarine-world-sync/tree/master.svg?style=shield)](https://circleci.com/gh/PrismarineJS/prismarine-world-sync/tree/master)
 
+This module is deprecated, please use directly [prismarine world sync api](https://github.com/PrismarineJS/prismarine-world#worldsyncasyncworld)
+
 A sync proxy to prismarine-world
 
 To be used only if you really really have to, for example if you need to provide to use the world representation
