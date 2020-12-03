@@ -1,6 +1,5 @@
 # prismarine-world-sync
-[![NPM version](https://img.shields.io/npm/v/prismarine-world-sync.svg)](http://npmjs.com/package/prismarine-world-sync)
-[![Build Status](https://circleci.com/gh/PrismarineJS/prismarine-world-sync/tree/master.svg?style=shield)](https://circleci.com/gh/PrismarineJS/prismarine-world-sync/tree/master)
+[![NPM version](https://img.shields.io/npm/v/prismarine-world-sync.svg)](http://npmjs.com/package/prismarine-world-sync)![CI](https://github.com/PrismarineJS/prismarine-world-sync/workflows/CI/badge.svg)
 
 This module is deprecated, please use directly [prismarine world sync api](https://github.com/PrismarineJS/prismarine-world#worldsyncasyncworld)
 
